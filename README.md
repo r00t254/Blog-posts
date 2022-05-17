@@ -6,16 +6,16 @@ This is a flask application that allows writers to post blogs, edit and delete b
 # Live Link
 
 # User Story
-A user sees random quotes on the site
+.A user sees random quotes on the site
 
-A writer can create a blog from the application and update or delete blogs I have created.
+.A writer can create a blog from the application and update or delete blogs I have created.
 
-A user should an email alert when a new post is made by joining a subscription.
+.A user should an email alert when a new post is made by joining a subscription.
 
-Register to be allowed to log in to the application
+.Register to be allowed to log in to the application
 
-A user can view the most recent posts.
+.A user can view the most recent posts.
 
-View and comment the blog posts on the site.
+.View and comment the blog posts on the site.
 
 
