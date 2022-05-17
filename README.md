@@ -45,3 +45,8 @@ Subscription	   Email Address	Flash message -----"Succesfully subsbribed to D-Bl
 There are no known bugs
 # Contact Information
 You can send your comments here :email  root243@mary.gmail.com
+
+# License
+MIT License:
+Copyright (c) 2022 Mary Auma
+
