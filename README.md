@@ -42,3 +42,4 @@ Click on submit	  	-----Redirect to all comments tamplate with your comment and 
 Subscription	   Email Address	Flash message -----"Succesfully subsbribed to D-Blog"
 
 # Known Bugs
+There are no known bugs
