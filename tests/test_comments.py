@@ -19,9 +19,9 @@ class CommentModelTest(unittest.TestCase):
 
 class CommentModelTest(unittest.TestCase):
     def setUp(self):
-        self.user_charles = User(username='cha', password='chako', email='test@test.com')
-        self.new_blog = Blog(id=1, title='Test', content='This is a test blog', user_id=self.user_charles.id)
-        self.new_comment = Comment(id=1, comment ='This is a test comment', user_id=self.user_charles.id, blog_id = self.new_blog.id )
+        self.user_clara = User(username='cla', password='cla', email='test@test.com')
+        self.new_blog = Blog(id=1, title='Test', content='This is a test blog', user_id=self.user_clara.id)
+        self.new_comment = Comment(id=1, comment ='This is a test comment', user_id=self.user_clara.id, blog_id = self.new_blog.id )
 
     def tearDown(self):
         Blog.query.delete()
@@ -30,7 +30,7 @@ class CommentModelTest(unittest.TestCase):
 
     def test_check_instance_variables(self):
         self.assertEquals(self.new_comment.comment, 'This is a test comment')
-        self.assertEquals(self.new_comment.user_id, self.user_charles.id)
+        self.assertEquals(self.new_comment.user_id, self.user_clara.id)
         self.assertEquals(self.new_comment.blog_id, self.new_blog.id)
 
     def test_save_comment(self):
