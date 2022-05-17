@@ -28,12 +28,12 @@ Python3.8
 Flask 
 Heroku
 # BDD
-Behaviour	Input	Output
-Load the page	On page load	Get all blogs, Select between signup and login
-Select SignUp	Email,Username,Password	Redirect to login
+Behaviour'''''	Input'''''''	Output
+Load the page	  On page load	Get all blogs,---- Select between signup and login
+Select SignUp   	Email,Username,-----Password	Redirect to login
 Select Login	Username and password	Redirect to page with blogs that have been posted by writes and be able to subscribe to the blog
-Select comment button	Comment	Form that you input your comment
-Click on submit		Redirect to all comments tamplate with your comment and other comments
-Subscription	Email Address	Flash message "Succesfully subsbribed to D-Blog"
+Select comment button	    Comment	--------Form that you input your comment
+Click on submit	  	-----Redirect to all comments tamplate with your comment and other comments
+Subscription	   Email Address	Flash message -----"Succesfully subsbribed to D-Blog"
 
 
