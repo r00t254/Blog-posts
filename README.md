@@ -13,6 +13,7 @@ A writer can create a blog from the application and update or delete blogs I hav
 A user should an email alert when a new post is made by joining a subscription.
 
 Register to be allowed to log in to the application
-
+A user can view the most recent posts.
+View and comment the blog posts on the site.
 
 
