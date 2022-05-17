@@ -1,4 +1,4 @@
-# Blog-app
+# Blog-posts
 # Author
 Mary Auma
 # Description
