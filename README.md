@@ -20,5 +20,6 @@ This is a flask application that allows writers to post blogs, edit and delete b
 
 # Developments
 Running the application
+
 python3.8 manage.py server
 
