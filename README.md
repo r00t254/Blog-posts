@@ -9,7 +9,9 @@ This is a flask application that allows writers to post blogs, edit and delete b
 A user sees random quotes on the site
 
 A writer can create a blog from the application and update or delete blogs I have created.
+
 A user should an email alert when a new post is made by joining a subscription.
+
 Register to be allowed to log in to the application
 
 
