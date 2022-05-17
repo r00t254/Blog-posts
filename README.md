@@ -25,3 +25,6 @@ python3.8 manage.py server
 
 # Technology  Used
 Python3.8
+Flask 
+Heroku
+
