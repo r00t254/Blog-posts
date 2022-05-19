@@ -23,6 +23,7 @@ Running the application
 
 python3.8 manage.py server
 
+start.sh
 # Technology  Used
 Python3.8
 Flask 

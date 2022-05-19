@@ -8,7 +8,7 @@ app = create_app()
 manager =  Manager(app)
 migrate = Migrate(app,db)
 manager.add_command('db',MigrateCommand)
-manager.add_command('run',Server(use_debugger=True))
+manager.add_command('run',Server)
 
 @manager.shell
 def make_shell_context():
