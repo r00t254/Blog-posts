@@ -5,6 +5,10 @@ Mary Auma
 This is a flask application that allows writers to post blogs, edit and delete blogs.It also allows a person to subscribed to recieve email everytime a new blog is posted by a writer.
 # Live Link
 
+# Sreen short
+
+![Screenshot from 2022-05-20 14-12-25](https://user-images.githubusercontent.com/100118426/169517205-a20b3539-dcf3-4437-bf5a-7de19cd2165c.png)
+
 # User Story
 .A user sees random quotes on the site
 
