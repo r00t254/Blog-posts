@@ -9,6 +9,12 @@ This is a flask application that allows writers to post blogs, edit and delete b
 
 ![Screenshot from 2022-05-20 14-12-25](https://user-images.githubusercontent.com/100118426/169517205-a20b3539-dcf3-4437-bf5a-7de19cd2165c.png
 
+
+
+
+
+
+
 ![Screenshot from 2022-05-21 22-09-03](https://user-images.githubusercontent.com/100118426/169666047-44377018-8530-4cc9-ba91-59a8fa3de471.png)
 
 
